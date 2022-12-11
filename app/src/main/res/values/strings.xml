@@ -3,4 +3,10 @@
     <string name="hello_world">Hello World!</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="service_feedback_tv">How was the service?</string>
+    <string name="amazing_20_option">Amazing (20%)</string>
+    <string name="good_18_option">Good (18%)</string>
+    <string name="okay_15_option">Okay (15%)</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="round_up_tip">Round up tip?</string>
 </resources>
