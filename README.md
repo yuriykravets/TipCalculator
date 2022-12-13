@@ -1,3 +1,2 @@
-#TipCalculator
-
+# TipCalculator
 Codelab from Google
